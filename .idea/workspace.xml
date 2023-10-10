@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b5c89d0-da98-429e-a2bc-ff5c15297f69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Bmi/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Bmi/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Dayofmonth/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Dayofmonth/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Leapyear/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Leapyear/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/LinearEquationResolver/LinearEquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/LinearEquationResolver/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Number/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Number/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Rectangle/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/SystemTime/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/SystemTime/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/Variable/variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/Variable/variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codegym/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codegym/hello/HelloWorld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WVcEOKoWFLqKw6juV2ehcJxNOM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/ADMIN/OneDrive/Desktop/Codegym/module-02-advanced-programing-with-java/lesson-01/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Number">
+    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Bmi.BMI" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.Bmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Number.Number" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.Number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Variable.Variable02" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.Variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="toan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Number.toan" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.Number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variable03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.Variable.variable03" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.Variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Number" />
+        <item itemvalue="Application.toan" />
+        <item itemvalue="Application.variable03" />
+        <item itemvalue="Application.Variable02" />
+        <item itemvalue="Application.BMI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b5c89d0-da98-429e-a2bc-ff5c15297f69" name="Changes" comment="" />
+      <created>1696821084607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696821084607</updated>
+      <workItem from="1696821085646" duration="3009000" />
+      <workItem from="1696833771810" duration="1730000" />
+      <workItem from="1696840001406" duration="6095000" />
+      <workItem from="1696846154479" duration="4000" />
+      <workItem from="1696865361668" duration="1291000" />
+      <workItem from="1696902333986" duration="9149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
